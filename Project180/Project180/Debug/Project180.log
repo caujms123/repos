@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\82107\source\repos\project180\project180\소스.c(8): warning C4091: 'typedef ': 변수를 선언하지 않으면 'listNode' 왼쪽은 무시됩니다.
+c:\users\82107\source\repos\project180\project180\소스.c(22): warning C4013: 'printNode'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82107\source\repos\project180\project180\소스.c(35): error C2371: 'printNode': 재정의. 기본 형식이 다릅니다.

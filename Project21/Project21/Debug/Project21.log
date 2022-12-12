@@ -1,0 +1,3 @@
+﻿  doit.c
+c:\users\82107\source\repos\project21\project21\doit.c(3): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char **'입니다.
+  Project21.vcxproj -> C:\Users\82107\source\repos\Project21\Debug\Project21.exe

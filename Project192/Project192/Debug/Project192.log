@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\82107\source\repos\project192\project192\소스.c(14): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\82107\source\repos\project192\project192\소스.c(14): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int (*)[10]'입니다.
+  Project192.vcxproj -> C:\Users\82107\source\repos\Project192\Debug\Project192.exe

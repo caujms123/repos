@@ -1,0 +1,14 @@
+﻿  front.cpp
+c:\users\82107\source\repos\project221\project221\front.cpp(281): warning C4101: 'string_fputs' :참조되지 않은 지역 변수입니다.
+  main.cpp
+c:\users\82107\source\repos\project221\project221\main.cpp(15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+  parser.cpp
+c:\users\82107\source\repos\project221\project221\parser.cpp(24): warning C4806: '==': 안전하지 않은 연산입니다. 'bool' 형식의 값('int' 형식으로 확장)이 주어진 상수와 같을 수 없습니다.
+  var.cpp
+c:\users\82107\source\repos\project221\project221\var.cpp(31): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\82107\source\repos\project221\project221\var.cpp(33): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\82107\source\repos\project221\project221\var.cpp(165): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\82107\source\repos\project221\project221\var.cpp(167): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  코드를 생성하고 있습니다...
+  Project221.vcxproj -> C:\Users\82107\source\repos\Project221\Debug\Project221.exe

@@ -1,0 +1,10 @@
+﻿  Main.cpp
+  Student.cpp
+c:\users\82107\source\repos\project204\project204\student.cpp(90): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82107\source\repos\project204\project204\student.cpp(100): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82107\source\repos\project204\project204\student.cpp(111): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82107\source\repos\project204\project204\student.cpp(157): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82107\source\repos\project204\project204\student.cpp(270): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82107\source\repos\project204\project204\student.cpp(392): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  Project204.vcxproj -> C:\Users\82107\source\repos\Project204\Debug\Project204.exe

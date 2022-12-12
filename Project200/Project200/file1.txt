@@ -1,0 +1,2 @@
+Lisa Simpson//2000386001//Computer Engineering//oop1@gmail.com//01012345678
+Gildong Hong//2004038077//Computer Engineering//oop2@gmail.com//01187651234

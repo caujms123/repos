@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\82107\source\repos\project84\project84\소스.c(10): error C2628: 'a' 다음에 'int'이(가) 올 수 없습니다. ';'이 있어야 합니다.
+c:\users\82107\source\repos\project84\project84\소스.c(11): error C2178: 'solution'은(는) 'typedef' 지정자를 사용하여 선언할 수 없습니다.
+c:\users\82107\source\repos\project84\project84\소스.c(11): error C2054: 'solution' 다음에 '('가 필요합니다.

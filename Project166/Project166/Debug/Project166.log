@@ -1,0 +1,7 @@
+﻿  소스.c
+c:\users\82107\source\repos\project166\project166\소스.c(21): warning C4005: 'Attack33': 매크로 재정의
+  c:\users\82107\source\repos\project166\project166\소스.c(18): note: 'Attack33'의 이전 정의를 참조하십시오.
+c:\users\82107\source\repos\project166\project166\소스.c(515): warning C4716: 'Gard_44': 값을 반환해야 합니다.
+c:\users\82107\source\repos\project166\project166\소스.c(713): warning C4716: 'Attack_33': 값을 반환해야 합니다.
+c:\users\82107\source\repos\project166\project166\소스.c(1157): warning C4716: 'Attack_44': 값을 반환해야 합니다.
+  Project166.vcxproj -> C:\Users\82107\source\repos\Project166\Debug\Project166.exe

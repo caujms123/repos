@@ -1,0 +1,17 @@
+﻿  소스.c
+c:\users\82107\source\repos\project185\project185\소스.c(3): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+c:\users\82107\source\repos\project185\project185\소스.c(3): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+c:\users\82107\source\repos\project185\project185\소스.c(3): error C2059: 구문 오류: ','
+c:\users\82107\source\repos\project185\project185\소스.c(3): error C2059: 구문 오류: ')'
+c:\users\82107\source\repos\project185\project185\소스.c(4): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+c:\users\82107\source\repos\project185\project185\소스.c(4): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+c:\users\82107\source\repos\project185\project185\소스.c(4): error C2059: 구문 오류: ','
+c:\users\82107\source\repos\project185\project185\소스.c(4): error C2059: 구문 오류: ')'
+c:\users\82107\source\repos\project185\project185\소스.c(6): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+c:\users\82107\source\repos\project185\project185\소스.c(6): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+c:\users\82107\source\repos\project185\project185\소스.c(6): error C2059: 구문 오류: ')'
+c:\users\82107\source\repos\project185\project185\소스.c(6): error C2059: 구문 오류: ';'
+c:\users\82107\source\repos\project185\project185\소스.c(19): warning C4013: 'printtree'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82107\source\repos\project185\project185\소스.c(21): warning C4013: 'heapSort'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82107\source\repos\project185\project185\소스.c(44): error C2371: 'heapSort': 재정의. 기본 형식이 다릅니다.
+c:\users\82107\source\repos\project185\project185\소스.c(66): error C2371: 'printtree': 재정의. 기본 형식이 다릅니다.

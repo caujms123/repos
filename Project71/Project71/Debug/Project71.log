@@ -1,0 +1,3 @@
+﻿  소스.c
+c:\users\82107\source\repos\project71\project71\소스.c(4): warning C4307: '*': 정수 계열 상수 오버플로입니다.
+  Project71.vcxproj -> C:\Users\82107\source\repos\Project71\Debug\Project71.exe

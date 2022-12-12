@@ -1,0 +1,12 @@
+﻿  Main.cpp
+  Student.cpp
+c:\users\82107\source\repos\project201\project201\student.cpp(90): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82107\source\repos\project201\project201\student.cpp(100): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82107\source\repos\project201\project201\student.cpp(111): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82107\source\repos\project201\project201\student.cpp(157): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82107\source\repos\project201\project201\student.cpp(270): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82107\source\repos\project201\project201\student.cpp(392): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  All 473 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Project201.vcxproj -> C:\Users\82107\source\repos\Project201\Release\Project201.exe

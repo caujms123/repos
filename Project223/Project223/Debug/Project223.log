@@ -1,0 +1,6 @@
+﻿  소스.cpp
+c:\users\82107\source\repos\project223\project223\소스.cpp(9): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82107\source\repos\project223\project223\소스.cpp(11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82107\source\repos\project223\project223\소스.cpp(22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82107\source\repos\project223\project223\소스.cpp(26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project223.vcxproj -> C:\Users\82107\source\repos\Project223\Debug\Project223.exe
