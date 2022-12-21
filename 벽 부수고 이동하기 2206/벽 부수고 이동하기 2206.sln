@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "벽 부수고 이동하기 2206", "벽 부수고 이동하기 2206\벽 부수고 이동하기 2206.vcxproj", "{D0E68C14-97EB-4986-8A66-3B232CE42EAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0E68C14-97EB-4986-8A66-3B232CE42EAD}.Debug|x64.ActiveCfg = Debug|x64
+		{D0E68C14-97EB-4986-8A66-3B232CE42EAD}.Debug|x64.Build.0 = Debug|x64
+		{D0E68C14-97EB-4986-8A66-3B232CE42EAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{D0E68C14-97EB-4986-8A66-3B232CE42EAD}.Debug|x86.Build.0 = Debug|Win32
+		{D0E68C14-97EB-4986-8A66-3B232CE42EAD}.Release|x64.ActiveCfg = Release|x64
+		{D0E68C14-97EB-4986-8A66-3B232CE42EAD}.Release|x64.Build.0 = Release|x64
+		{D0E68C14-97EB-4986-8A66-3B232CE42EAD}.Release|x86.ActiveCfg = Release|Win32
+		{D0E68C14-97EB-4986-8A66-3B232CE42EAD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61219444-EE26-400C-BA7A-9A1AC73E03B9}
+	EndGlobalSection
+EndGlobal
